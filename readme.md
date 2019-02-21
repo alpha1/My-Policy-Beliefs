@@ -1,7 +1,8 @@
 ## My beliefs
-This are rough ideas but form some of my core policy beliefs. It is not a exhaustive list, some I will not post publicly, others I just haven't gotten to adding or articulating yet.
+This are rough ideas but form some of my core policy beliefs. Here be dragons...and typos. It is not a exhaustive list, some I will not post publicly, others I just haven't gotten to adding or articulating yet.
 Pull requests welcome, for idea ideas or clarifications. 
 Formerly at a gist: https://gist.github.com/alpha1/20f54715e307184304f7
+
 1) Outlaw Unpaid Internships. Interns may work no more than 20 hours a week. Intern minimum wage is $7.25. Limited to 3 months of work. Companies cannot have more than 10% of their workforce be interns at any given time. Exceptions available by permit.
 Enforce for any company, its subsidaries, or any company it owns 33% or more of.
 2a) Split Minimum wage. Under 18 or 21, minimum wage increased to 10.10. Over 18 or 21, minimum wage is $15 an hour. Impose heavy fines for companies hiring more than X percent under 21, and age discrimination.
@@ -18,7 +19,7 @@ Enforce for any company, its subsidaries, or any company it owns 33% or more of.
 11) Paternal and Material maternity leave guarenteed 2 months with unemployement pay for companies under 50 employees. 3 days paid sick pay, guareenteed per for all employees, 5 for companies with 50 or more employees. 
 12) Make Pot illegal, except for medical research. Make smoking pot illegal for medical reason. Encourage development of cannaboid based medicines without the side effects of being stoned. Allow medical research. Revisit in 10 years.
 13) Reform drug small drug posession and usage sentening. Short prison term with addiction dependence treatment, and consuling beyond the use of drugs but to underlying problems that turn people to drugs. Continue consuling outside of prison. Punishments should be fines and community service. Distrubuting based offenses, and violence drug related offenses should face increased prison sentences and increased parole / probation. 
-14) Jail time for driving offenses - driving without a licences should result in a prison term. Any penalities for crimes committed while driving without a licences should be doubled. Multiple licences suspentions should result in a lifetime ban. 
+14) Jail time for driving offenses - driving without a licences should result in a prison term. Any penalities for crimes committed while driving without a licences/driving while licences suspended, should be doubled. Multiple licences suspentions should result in a lifetime ban. 
 15) Ban convenience fees for ATMs and online purchases, and ATM fees
 16) Cap credit card payment/merchant fees at 1.35% per transaction + flat fee of $0.30 adjusted for inflation.
 17) Build government APIs for moving moneys
@@ -36,5 +37,8 @@ Enforce for any company, its subsidaries, or any company it owns 33% or more of.
 29) A federally enforced state income tax: if you're state does not have an income tax, your income is taxed federally at 1% and distributed to your state. This will help the problem of blue states subsidizing red states who use federal funds because they don't have state funds. Applies to both businesses and individuals.
 30) Stealing from Liz Warren: The government should manufacture or contract the manufacture of generic drugs which are medically necessary, overpriced, or unavailable.
 31) allow importing of perscription drugs from a allow list of first world nations
-32) Medicare/medicaid should negotion directly with drug companies
+32) Medicare/medicaid should negotiate directly with drug companies
 33) 2/3s majority needed to confirm a supreme court judge. Gaurantee nominees get a commitee vote within 3 months of nomination. Committee may be allowed to vote to delay a further commitee vote. 
+34) Lift the SALT cap yearly, based on the previous year's taxes paid by the bottom 90% of tax returns. 
+35) Government Healthcare Option: The US government should offer health insurance and should eventually roll up medicare and medicaid into it. "GovCare" should pay close to what standard insurance does - not cheap medicaid like rates, and offer no copay/coinsurance costs. It may offers others plans without these.
+36) Hospitals and doctors with more than 10 employeements must have a price book, which cannot be more than 90 days out of date at any time, listing prices or price ranges for a list of common procedures and costs, decided by the government and updated yearly by a committee of congressional reps and doctors. No fee can be charged to get the price list. If not available online, it must be given in no more than 14 open business days from request recieved. 

@@ -13,15 +13,15 @@ Enforce for any company, its subsidaries, or any company it owns 33% or more of.
 7) Remove all campaign funding. Replace with time constrained (X per month) government funding for canidates that can register as a canidate and qualify by collecting the signatures of 10% (15? 20?) of the population they would represent
 8a) Education Reform: Raise standards, reduce testing. Evaulations should be based on school year grades, rather than testing. Bring skills training into high schools, 1 semester of skills, from workworking, engineering, programming, to cooking, and assemble lines and factory workers. 
 8b) College Reform: Associates degree available at no cost over the course of a maximum of 4 nonconsecutive years total Up to 72 credits attempted). Government regulated private student loans rates, capped at 33% more than the federal student loan rates.
-9) Dividents, Stock Options, bond, and other capital gains taxed at a higher sliding scale than wages. Publically trades companies must disclose how many employees make minimum wage, how many employees are full time, how many are part time, all bonus, incentives and other types of preformance pay listed in #4.
+9) Dividends, Stock Options, bond, and other capital gains taxed at a higher sliding scale than wages for capital gains over 2x the poverty line. Publically trades companies must disclose how many employees make minimum wage, how many employees are full time, how many are part time, all bonus, incentives and other types of preformance pay listed in #4.
 10) Guarenteed medical care for childbirth, lifesaving emergency care, yearly checkups, yearly teeth cleanings, eye glasses, and other basic care.
 11) Paternal and Material maternity leave guarenteed 2 months with unemployement pay for companies under 50 employees. 3 days paid sick pay, guareenteed per for all employees, 5 for companies with 50 or more employees. 
 12) Make Pot illegal, except for medical research. Make smoking pot illegal for medical reason. Encourage development of cannaboid based medicines without the side effects of being stoned. Allow medical research. Revisit in 10 years.
 13) Reform drug small drug posession and usage sentening. Short prison term with addiction dependence treatment, and consuling beyond the use of drugs but to underlying problems that turn people to drugs. Continue consuling outside of prison. Punishments should be fines and community service. Distrubuting based offenses, and violence drug related offenses should face increased prison sentences and increased parole / probation. 
 14) Jail time for driving offenses - driving without a licences should result in a prison term. Any penalities for crimes committed while driving without a licences should be doubled. Multiple licences suspentions should result in a lifetime ban. 
 15) Ban convenience fees for ATMs and online purchases, and ATM fees
-16) Cap credit card payment/merchant fees at 1.35% per transaction.
-17) Build government APIS for moving moneys
+16) Cap credit card payment/merchant fees at 1.35% per transaction + flat fee of $0.30 adjusted for inflation.
+17) Build government APIs for moving moneys
 18) Automatic voter registration at 18 / online confirmation
 19) Federal voter registration not state.
 20) 100% tax for every dollar of SNAP/welfare benefits an employee users while employed both full and part time.
@@ -37,3 +37,4 @@ Enforce for any company, its subsidaries, or any company it owns 33% or more of.
 30) Stealing from Liz Warren: The government should manufacture or contract the manufacture of generic drugs which are medically necessary, overpriced, or unavailable.
 31) allow importing of perscription drugs from a allow list of first world nations
 32) Medicare/medicaid should negotion directly with drug companies
+33) 2/3s majority needed to confirm a supreme court judge. Gaurantee nominees get a commitee vote within 3 months of nomination. Committee may be allowed to vote to delay a further commitee vote. 
